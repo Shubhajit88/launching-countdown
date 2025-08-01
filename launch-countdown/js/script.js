@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  const launchDate = new Date("2025-08-01T00:00:00").getTime();
+  const launchDate = new Date("2025-08-05T00:00:00").getTime();
 
   function updateCountdown() {
     const now = new Date().getTime();
